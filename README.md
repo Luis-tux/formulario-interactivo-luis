@@ -37,8 +37,7 @@ Este repositorio contiene el código fuente de un formulario web que recoge info
 
 Puedes acceder a la versión desplegada en GitHub Pages (o Netlify/Vercel) en la siguiente URL:
 
-[**Acceder al Formulario Interactivo Online**](https://tu-nombre-de-usuario.github.io/nombre-del-repositorio/formulario_interactivo_final_optimizado.html)
-*(¡No olvides reemplazar `tu-nombre-de-usuario` y `nombre-del-repositorio` con los datos de tu propio despliegue!)*
+
 
 Alternativamente, puedes clonar este repositorio y abrir los archivos HTML directamente en tu navegador:
 
@@ -65,12 +64,6 @@ Alternativamente, puedes clonar este repositorio y abrir los archivos HTML direc
 ## 🤝 Contribuciones
 
 Si tienes alguna sugerencia para mejorar este formulario o las páginas de humor, ¡no dudes en abrir un "Issue" o enviar un "Pull Request"!
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [Nombre de tu Licencia, ej. MIT License]. Consulta el archivo `LICENSE` para más detalles. (Si no tienes un archivo LICENSE, puedes omitir esta sección o añadir uno).
-
----
 
 **¡Gracias por visitar este repositorio!**
 ---
